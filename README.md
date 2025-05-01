@@ -4,6 +4,14 @@
 
 This Python script generates an interactive network (knowledge graph) visualization of mental disorders and their symptoms, organized according to DSM-5-TR diagnostic categories. It reads relationship data (symptoms, comorbidities) from a CSV file and produces an HTML file containing the interactive graph, various analysis tools, and filtering options.
 
+
+
+
+![Screenshot 2025-04-25 195311](https://github.com/user-attachments/assets/828089b3-1196-4af4-b256-601027f00701)
+
+
+
+
 ## Features
 
 * **Interactive Network Graph:** Visualizes disorders (dots) and symptoms (triangles) connected by their relationships.
